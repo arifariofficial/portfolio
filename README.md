@@ -2,4 +2,16 @@
 `npx create-next-app@latest .`
 
 #### Custom tailwindcss color
-``Tailwindcss.config.js``
+`Tailwindcss.config.js`
+``` json
+  theme: {
+    extend: {
+      colors: {
+        black: {
+          DEFAULT: "#000000",
+          100: "#000319",
+        },
+      },
+    },
+  },
+  ````
