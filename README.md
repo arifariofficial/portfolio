@@ -84,3 +84,4 @@ Add Text generate effect from Acertinity UI
 
 #### Hero
 ![Hero Section's pic](screen-shot/hero.png)
+
