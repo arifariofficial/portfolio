@@ -29,6 +29,19 @@ overflow-hidden = Hide scroll bars
 #### Acerternity UI library
 `npm i framer-motion clsx tailwind-merge`
 
+
+```javascript
+//tailwind.config.ts
+const svgToDataUri = require("mini-svg-data-uri");
+
+const colors = require("tailwindcss/colors");
+const {
+  default: flattenColorPalette,
+} = require("tailwindcss/lib/util/flattenColorPalette");
+```
+
+`npm install mini-svg-data-uri`
+
 ```javascript
 //tailwind.config.ts
   theme: {
@@ -50,7 +63,7 @@ overflow-hidden = Hide scroll bars
       },
     },
   },
-  
+
 ```
 
 Add spotlight to components/ui/spotlight.tsx
