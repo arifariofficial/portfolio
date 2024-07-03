@@ -1,6 +1,8 @@
 ### STEP BY STEP Tutorial
-`npx create-next-app@latest .`
-`npx shadcn-ui@latest init`
+```
+npx create-next-app@latest .
+npx shadcn-ui@latest init
+```
 
 #### Custom tailwindcss color
 ```javascript
