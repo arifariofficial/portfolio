@@ -90,3 +90,6 @@ Add Text generate effect from Acertinity UI
 
 Add a navbar from Aceternity UI
 
+
+#### Grid section
+
