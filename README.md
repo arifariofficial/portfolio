@@ -15,7 +15,14 @@
     },
   },
   ````
+
 ```
 justify-center = Place items in the center horizontally
 items-center = Place items in the center vertically
-```
+overflow-hidden = Hide scroll bars
+
+
+
+### Acerternity UI library
+
+
