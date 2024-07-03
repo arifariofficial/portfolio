@@ -3,7 +3,7 @@
 
 #### Custom tailwindcss color
 `Tailwindcss.config.js`
-``` json
+```javascript
   theme: {
     extend: {
       colors: {
