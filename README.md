@@ -69,4 +69,15 @@ const {
 Add spotlight to components/ui/spotlight.tsx
 Make a hero.tsx component in components/hero.tsx
 
+Add Grid and Dot Background from Acerternity UI
+
+### Install and Add dark theme
+`npm install next-themes`
+
+Follow dark theme install guide from shadcn
+
+#### Text Generate Effect
+Add Text generate effect from Acertinity UI
+
+`I&apos;am`
 
