@@ -81,3 +81,4 @@ Add Text generate effect from Acertinity UI
 
 `I&apos;m = I'm`
 
+![Hero Section's pic][screen-shot/hero.png]
