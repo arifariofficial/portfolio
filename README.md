@@ -15,7 +15,7 @@
     },
   },
   ````
-
+```
 justify-center = Place items in the center horizontally
 items-center = Place items in the center vertically
-
+```
