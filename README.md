@@ -91,5 +91,11 @@ Add Text generate effect from Acertinity UI
 Add a navbar from Aceternity UI
 
 
-#### Grid section
+#### Bengo Grid section
+Add a bento-grid.tsx from Aceternity UI and create a grid.tsx components
+
+#### cssgredient.io
+Add gradient to bento-grid.txs
+
+#### Install react-lottie
 
