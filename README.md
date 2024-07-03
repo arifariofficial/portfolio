@@ -79,5 +79,5 @@ Follow dark theme install guide from shadcn
 #### Text Generate Effect
 Add Text generate effect from Acertinity UI
 
-`I&apos;am`
+`I&apos;m = I'm`
 
