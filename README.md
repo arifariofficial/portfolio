@@ -2,8 +2,8 @@
 `npx create-next-app@latest .`
 
 #### Custom tailwindcss color
-`Tailwindcss.config.js`
 ```javascript
+`Tailwindcss.config.js`
   theme: {
     extend: {
       colors: {
