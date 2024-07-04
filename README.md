@@ -84,3 +84,20 @@ Add Text generate effect from Acertinity UI
 
 #### Hero
 ![Hero Section's pic](screen-shot/hero.png)
+
+
+#### Floating Navbar
+
+Add a navbar from Aceternity UI
+
+
+#### Bengo Grid section
+Add a bento-grid.tsx from Aceternity UI and create a grid.tsx components
+
+#### cssgredient.io
+Add gradient to bento-grid.txs
+
+#### Install react-lottie
+
+### Recent Projects
+#### 3D Animated pin
