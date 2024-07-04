@@ -99,3 +99,5 @@ Add gradient to bento-grid.txs
 
 #### Install react-lottie
 
+### Recent Projects
+#### 3D Animated pin
